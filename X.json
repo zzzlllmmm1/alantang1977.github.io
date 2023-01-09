@@ -15,7 +15,7 @@
 {"key":"csp_Bili","name":"🅱┃哔哩合集","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":"http://w.g9.pub:66/381203888/json/bilibili_2.json"},
 
 ##SP系列
-{"key": "csp_xBPQ新视觉","name": "🍁SP┃新视觉","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/alantang1977/T/master/XB/%E6%96%B0%E8%A7%86%E8%A7%89%E5%BD%B1%E9%99%A2.json"},
+{"key": "csp_xBPQ新视觉","name": "🍁SP┃新视觉","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/alantang1977/T/master/XB/新视觉影院.json"},
 {"key": "csp_LibVio", "name": "🚁QJ┃LibVio", "type": 3, "api": "csp_Lib", "searchable": 1, "playerType": 2, "quickSearch": 1, "filterable": 0 ,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/alantang1977/X/main/jar/xo.jar"}, 
 {"key": "csp_app_阿里","name": "🐜┃阿里影视","type": 3,"playerType": 2,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable":1,"ext":"http://aliys.cn:90/api.php/v1.vod","jar":"https://ghproxy.com/https://raw.githubusercontent.com/alantang1977/X/master/jar/panda.jar"},
 {"key":"csp_xbb_茶杯狐","name":"🐯SP┃茶杯狐","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/alanchaotang/TangTV/raw/master/XB/%E8%8C%B6%E6%9D%AF%E7%8B%90.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/alantang1977/X/main/jar/custom_spider.jar"},
